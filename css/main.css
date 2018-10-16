@@ -24,3 +24,10 @@ h1,h2{
 div{
     text-align: center;
 }
+a{
+    background: #ffffff;
+    padding:10px;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: sans-serif;
+}
